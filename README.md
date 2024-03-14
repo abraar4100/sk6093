@@ -1,4 +1,5 @@
-# sk6093
+# SK6093 Independent Computational Research 3
+
 This is the repository for the SK6093 course in Master's Degree in Computational Science at ITB
 - Author: Muhammad Abraar Abhirama
 - NIM: 20923003
