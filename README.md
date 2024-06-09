@@ -2,17 +2,17 @@
 
 **Author:**
 - Muhammad Abraar Abhirama, NIM: 20923003
-
+___
 **Contact:**
 - abraar4100@gmail.com
-
+___
 **Usage:**
 - https://github.com/abraar4100/sk6093
-
+___
 **Files Description:**
 - This repository contains the study of stock portfolio optimization using the Deep Q-Network Algorithm of Deep Reinforcement Learning
 - More about the details can be seen on my medium account: abraar4100.medium.com
-
+___
 **Timeline and stages:**
 | Progress  | Completion Date | Description | 
 | ------------- | ------------- | ------------- |
@@ -27,9 +27,16 @@
 | Building the Main Program Pt. 3 (end) | March 27 |  Building the main program notebook to run the environment (end) |
 | Revision Pt. 1 | April 3 |  Revision |
 | Revision Pt. 2 | April 10 |  Revision |
-
-**Current bugs/progress:**
-- Still looking for several new methods (functions) in the DRL Environment so that it captures the stock market more significantly realistic
-
+| Finalization | May 9 |  Done |
+___
 **History of progress/bugs fixed:**
 - Libraries have been updated
+___
+**Requirements:**
+- yfinance (any version)
+- NumPy (any version)
+- Pandas (any version)
+- Matplotlib (any version)
+- gym (any version)
+- stable_baselines3 (any version)
+- portfolio_environment module (attached in the environment folder)
